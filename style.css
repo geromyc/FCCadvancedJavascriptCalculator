@@ -1,0 +1,15 @@
+.del, .keys, .operator, .equal {
+    min-width: 75px;
+    min-height: 30px;
+    color: black;
+    background-color: grey;
+    border-color: white;
+}
+#ans, #actNum {
+    min-height: 25px;
+    min-width: 300px;
+    background-color: white;
+}
+#calc {
+    margin-left: 15px;
+}
